@@ -1,0 +1,23 @@
+{
+"parent": "item/generated",
+"textures": {
+"layer0": "item/iron_nugget"
+},
+
+"overrides": [
+{"predicate": {"custom_model_data":1}, "model": "item/dematcircuit"},
+{"predicate": {"custom_model_data":2}, "model": "item/bansheecircuit"},
+{"predicate": {"custom_model_data":3}, "model": "item/timecircuit"},
+{"predicate": {"custom_model_data":4}, "model": "item/telepathiccircuit"},
+{"predicate": {"custom_model_data":5}, "model": "item/tardis_key1"},
+{"predicate": {"custom_model_data":6}, "model": "item/emptytube"},
+{"predicate": {"custom_model_data":7}, "model": "item/fluidlink"},
+{"predicate": {"custom_model_data":8}, "model": "item/spacetimeelement"},
+{"predicate": {"custom_model_data":9}, "model": "item/boringers"},
+{"predicate": {"custom_model_data":10}, "model": "item/boringerswitches"},
+{"predicate": {"custom_model_data":11}, "model": "item/monitor"},
+{"predicate": {"custom_model_data":12}, "model": "item/lightcycle"},
+{"predicate": {"custom_model_data":13}, "model": "item/lightcycleactive"},
+{"predicate": {"custom_model_data":14}, "model": "item/lightcycle_black"}
+]
+}

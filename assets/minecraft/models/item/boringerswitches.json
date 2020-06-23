@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"4": "blocks/controls/blueboring"
+	},
+	"elements": [
+		{
+			"from": [7.5625, 0, 7.75],
+			"to": [8.4375, 2, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [13, 0.625, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.875, 2], "texture": "#4"},
+				"east": {"uv": [0, 0, 0.5, 2], "texture": "#4"},
+				"south": {"uv": [0, 0, 0.875, 2], "texture": "#4"},
+				"west": {"uv": [0, 0, 0.5, 2], "texture": "#4"},
+				"up": {"uv": [0, 0, 0.875, 0.5], "texture": "#4"},
+				"down": {"uv": [0, 0, 0.875, 0.5], "texture": "#4"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 8, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

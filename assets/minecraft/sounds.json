@@ -1,0 +1,841 @@
+{
+    "tardis_takeoff": {
+    "sounds": [
+        "tardis_takeoff"
+        ]
+    },
+    "tardis_takeoff_fast": {
+    "sounds": [
+        "tardis_takeoff_fast"
+        ]
+    },
+    "tardis_takeoff_instant": {
+    "sounds": [
+        "tardis_takeoff_instant"
+        ]
+    },
+    "tardis_land": {
+    "sounds": [
+        "tardis_land"
+        ]
+    },
+    "tardis_land_fast": {
+    "sounds": [
+        "tardis_land_fast"
+        ]
+    },
+    "tardis_land_instant": {
+    "sounds": [
+        "tardis_land_instant"
+        ]
+    },
+    "tardis_emergency_land": {
+    "sounds": [
+        "tardis_emergency_land"
+        ]
+    },
+    "tardis_rotor_slam": {
+    "sounds": [
+        "rotorslam"
+        ]
+    },
+    "tardis_error": {
+    "sounds": [
+        "tardis_error"
+        ]
+    },
+    "tardis_emergency_landog": {
+    "sounds": [
+        "tardis_emergency_landog"
+        ]
+    },
+    "heavyimpact": {
+    "sounds": [
+        "heavyimpact"
+        ]
+    },
+    "denied_takeoff_safeguard": {
+    "sounds": [
+        "denied_takeoff_safeguard"
+        ]
+    },
+    "componentrepair": {
+    "sounds": [
+        "componentrepair"
+        ]
+    },
+    "time_vortex": {
+    "sounds": [
+        "time_vortex"
+        ]
+    },
+    "tardis_lowpower": {
+    "sounds": [
+        "tardis_lowpower"
+        ]
+    },
+    "tardis_startup": {
+    "sounds": [
+        "tardis_startup"
+        ]
+    },
+    "tardis_startup_2": {
+    "sounds": [
+        "tardis_startup_2"
+        ]
+    },
+    "tardis_shutdown": {
+    "sounds": [
+        "tardis_shutdown"
+        ]
+    },
+    "tardis_shutdown_2": {
+    "sounds": [
+        "tardis_shutdown_2"
+        ]
+    },
+    "tardis_warning_beep": {
+    "sounds": [
+        "tardis_warning_beep"
+        ]
+    },
+    "tardis_alarms": {
+    "sounds": [
+        "tardis_alarms"
+        ]
+    },
+    "enginepiston": {
+    "sounds": [
+        "enginepiston"
+        ]
+    },
+    "drumbeat": {
+    "sounds": [
+        "drumbeat"
+        ]
+    },
+    "synthesize": {
+    "sounds": [
+        "synthesize"
+        ]
+    },
+    "synthambience": {
+    "sounds": [
+        "synthambience"
+        ]
+    },
+    "artronshieldon": {
+    "sounds": [
+        "artronshieldon"
+        ]
+    },
+    "artronshieldoff": {
+    "sounds": [
+        "artronshieldoff"
+        ]
+    },
+    "shieldsup": {
+    "sounds": [
+        "shieldsup"
+        ]
+    },
+    "shieldsoff": {
+    "sounds": [
+        "shieldsoff"
+        ]
+    },
+    "keystroke": {
+    "sounds": [
+        "keystroke"
+        ]
+    },
+    "keystroke2": {
+    "sounds": [
+        "keystroke2"
+        ]
+    },
+    "keyboard": {
+    "sounds": [
+        "keyboard"
+        ]
+    },
+    "flighttoggle": {
+    "sounds": [
+        "flighttoggle"
+        ]
+    },
+    "minisynth": {
+    "sounds": [
+        "minisynth"
+        ]
+    },
+    "throttle": {
+    "sounds": [
+        "throttle"
+        ]
+    },
+    "leverwow": {
+    "sounds": [
+        "ogthrottle"
+        ]
+    },
+    "coords_received": {
+    "sounds": [
+        "coords_received"
+        ]
+    },
+    "coords_check": {
+    "sounds": [
+        "coords_check"
+        ]
+    },
+    "stabilizers": {
+    "sounds": [
+        "stabilizers"
+        ]
+    },
+    "stabilizersoff": {
+    "sounds": [
+        "stabilizersoff"
+        ]
+    },
+    "eye_of_harmony": {
+    "sounds": [
+        {
+            "name": "eye_of_harmony",
+            "stream": true
+        }
+        ]
+    },
+    "corridoor_open": {
+    "sounds": [
+        "corridoor_open"
+        ]
+    },
+    "corridoor_close": {
+    "sounds": [
+        "corridoor_close"
+        ]
+    },
+    "tardis_interior_ambience": {
+    "sounds": [
+        {
+            "name": "tardis_interior_ambience_1",
+            "type": "event"
+        },
+        {
+            "name": "tardis_interior_ambience_2",
+            "type": "event"
+        },
+        {
+            "name": "tardis_interior_ambience_3",
+            "type": "event",
+            "volume": 0.6
+        }
+        ]
+    },
+    "sunshot": {
+    "sounds": [
+
+            "sunshot/sunshot1",
+            "sunshot/sunshot2"
+
+        ]
+    },
+    "adson": {
+    "sounds": [
+
+            "sunshot/adson"
+
+        ]
+    },
+    "adsoff": {
+    "sounds": [
+
+            "sunshot/adsoff"
+
+        ]
+    },
+    "sunshotreload": {
+    "sounds": [
+
+            "sunshot/sunshotreload"
+
+        ]
+    },
+    "bulletwhistle": {
+    "sounds": [
+
+            "sunshot/bulletwhistle1",
+            "sunshot/bulletwhistle2",
+            "sunshot/bulletwhistle3"
+
+        ]
+    },
+    "kill": {
+    "sounds": [
+
+            "sunshot/killedaguy"
+
+        ]
+    },
+    "gravitonlance": {
+    "sounds": [
+
+            "gravitonlance/gravitonlance",
+            "gravitonlance/gravitonlance2",
+            "gravitonlance/gravitonlance3",
+            "gravitonlance/gravitonlance4"
+
+        ]
+    },
+    "lancecho": {
+    "sounds": [
+
+            "gravitonlance/lancecho"
+
+        ]
+    },
+    "tardis.beeps": {
+    "sounds": [
+            "beeps/beep1",
+            "beeps/beep2",
+            "beeps/beep3",
+            "beeps/beep4",
+            "beeps/beep5",
+            "beeps/beep6",
+            "beeps/beep7",
+            "beeps/beep8",
+            "beeps/beep9",
+            "beeps/beep10",
+            "beeps/beep11"
+        ]
+    },
+    "tardis.beeps.notifications": {
+    "sounds": [
+            "beeps/notifications/tone1",
+            "beeps/notifications/tone2",
+            "beeps/notifications/tone3",
+            "beeps/notifications/tone4",
+            "beeps/notifications/tone5",
+            "beeps/notifications/tone6"
+        ]
+    },
+    "tardis_intdoor_open": {
+    "sounds": [
+        "tardis_intdoor_open"
+    ]
+    },
+    "consoleambience": {
+    "category": "ambient",
+    "sounds": [
+        {
+            "name": "consoleambience",
+            "stream": true
+        }
+        ]
+    },
+    "tardis_interior_ambience_1": {
+    "category": "ambient",
+    "sounds": [
+        {
+            "name": "tardis_interior_ambience_1",
+            "stream": true
+        }
+        ]
+    },
+    "tardis_interior_ambience_2": {
+    "category": "ambient",
+    "sounds": [
+        {
+            "name": "tardis_interior_ambience_2",
+            "stream": true
+        }
+        ]
+    },
+    "tardis_interior_ambience_3": {
+    "category": "ambient",
+    "sounds": [
+        {
+            "name": "tardis_interior_ambience_3",
+            "stream": true,
+            "volume": 0.6
+        }
+        ]
+    },
+    "message.artron_energylow": {
+    "sounds": [
+        "messages/artron_energylow"
+        ]
+    },
+    "message.artron_energytransferred": {
+    "sounds": [
+        "messages/artron_energytransferred"
+        ]
+    },
+    "message.shields_up": {
+    "sounds": [
+        "messages/shields_up"
+        ]
+    },
+    "message.shields_off": {
+    "sounds": [
+        "messages/shields_off"
+        ]
+    },
+    "controls.tesseractulator": {
+    "sounds": [
+        "controls/tesseractulator"
+        ]
+    },
+    "controls.plotter": {
+    "sounds": [
+        "controls/plotter"
+        ]
+    },
+    "controls.vector": {
+    "sounds": [
+        "controls/vector"
+        ]
+    },
+    "controls.flightmodeon": {
+    "sounds": [
+        "controls/flightmodeon"
+        ]
+    },
+    "controls.flightmodeoff": {
+    "sounds": [
+        "controls/flightmodeoff"
+        ]
+    },
+    "controls.regulator": {
+    "sounds": [
+        "controls/regulator"
+        ]
+    },
+    "controls.balancer": {
+    "sounds": [
+        "controls/balancer"
+        ]
+    },
+    "controls.accelerometer": {
+    "sounds": [
+        "controls/accelerometer"
+        ]
+    },
+    "controls.equilibriumator": {
+    "sounds": [
+        "controls/equilibriumator"
+        ]
+    },
+    "controls.polyhelix": {
+    "sounds": [
+        "controls/polyhelix"
+        ]
+    },
+    "controls.timeswitch": {
+    "sounds": [
+        "controls/timeswitch"
+        ]
+    },
+    "time_torpedo": {
+    "sounds": [
+        "time_torpedo"
+        ]
+    },
+    "regeneration": {
+    "sounds": [
+        {
+            "name": "regeneration",
+            "stream": true
+        }
+        ]
+    },
+    "tardis_lock": {
+    "sounds": [
+        "tardis_remote"
+        ]
+    },
+    "tardis_hide": {
+    "sounds": [
+        "tardis_hide"
+        ]
+    },
+    "tardis_rebuild": {
+    "sounds": [
+        "tardis_rebuild"
+        ]
+    },
+    "tardis_hum": {
+    "category": "ambient",
+    "sounds": [
+        {
+            "name": "tardis_hum_coral",
+            "type": "event"
+        },
+        {
+            "name": "tardis_hum_copper",
+            "type": "event"
+        },
+        {
+            "name": "tardis_hum_computer",
+            "type": "event"
+        },
+        {
+            "name": "tardis_hum_sleeping",
+            "type": "event"
+        },
+        {
+            "name": "tardis_hum_galaxy",
+            "type": "event"
+        },
+        {
+            "name": "tardis_hum_mind",
+            "type": "event"
+        },
+        {
+            "name": "tardis_hum_void",
+            "type": "event"
+        },
+        {
+            "name": "tardis_hum_alien",
+            "type": "event"
+        },
+        {
+            "name": "tardis_hum_atmosphere",
+            "type": "event"
+        },
+        {
+            "name": "tardis_hum_learning",
+            "type": "event"
+        },
+        {
+            "name": "tardis_hum_neon",
+            "type": "event"
+        }
+     ]
+    },
+    "tardis_hum_coral": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_1",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_copper": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_2",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_computer": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_3",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_sleeping": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_4",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_galaxy": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_5",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_mind": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_6",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_void": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_7",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_alien": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_8",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_atmosphere": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_9",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_learning": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_10",
+                "stream": true
+            }
+        ]
+    },
+    "tardis_hum_neon": {
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "tardis_hum_11",
+                "stream": true
+            }
+        ]
+    },
+    "sonic_screwdriver": {
+        "sounds": [
+            "sonic_screwdriver"
+        ]
+    },
+    "sonic_medium": {
+        "sounds": [
+            "sonic_screwdriver_medium"
+        ]
+    },
+    "sonic_short": {
+        "sounds": [
+            "sonic_screwdriver_short"
+        ]
+    },
+        "sonic_locate": {
+        "sounds": [
+            "sonic_locate"
+        ]
+    },
+    "sonic_switch": {
+        "sounds": [
+            "sonic_switch"
+        ]
+    },
+    "sonic_pulse": {
+        "sounds": [
+            "sonic_pulse"
+        ]
+    },
+    "sonic_stun": {
+        "sounds": [
+            "sonic_stun"
+        ]
+    },
+    "sonic_high_frequency": {
+        "sounds": [
+            "sonic_high_frequency"
+        ]
+    },
+    "sonic_low_power": {
+        "sounds": [
+            "sonic_low_power"
+        ]
+    },
+    "police_box_open": {
+        "sounds": [
+            "police_box_open"
+        ]
+    },
+    "police_box_close": {
+        "sounds": [
+            "police_box_close"
+        ]
+    },
+    "tardis_door_open": {
+        "sounds": [
+            "tardis_door_open"
+        ]
+    },
+    "tardis_door_close": {
+        "sounds": [
+            "tardis_door_close"
+        ]
+    },
+    "tardis_handbrake_engage": {
+        "sounds": [
+            "tardis_handbrake_engage"
+        ]
+    },
+    "tardis_handbrake_release": {
+        "sounds": [
+            "tardis_handbrake_release"
+        ]
+    },
+    "tardis_cloister_bell": {
+        "sounds": [
+            "tardis_cloister_bell"
+        ]
+    },
+    "tardis_scanner": {
+        "sounds": [
+            "tardis_scanner"
+        ]
+    },
+    "tardis_malfunction": {
+        "sounds": [
+            "tardis_malfunction"
+        ]
+    },
+    "tardis_malfunction_takeoff": {
+        "sounds": [
+            "tardis_malfunction_takeoff"
+        ]
+    },
+    "tardis_enter": {
+        "sounds": [
+            "tardis_enter"
+        ]
+    },
+    "lazarus_machine": {
+        "sounds": [
+            "lazarus_machine"
+        ]
+    },
+    "interior_flight": {
+        "sounds": [
+            "interior_flight"
+        ]
+    },
+    "time_rotor": {
+        "sounds": [
+            "time_rotor"
+        ]
+    },
+    "time_rotor_stable": {
+        "sounds": [
+            "time_rotor_stable"
+        ]
+    },
+    "time_rotor_unstable": {
+        "sounds": [
+            "time_rotor_unstable"
+        ]
+    },
+    "power_up": {
+        "sounds": [
+            "power_up"
+        ]
+    },
+    "power_down": {
+        "sounds": [
+            "power_down"
+        ]
+    },
+    "engineboost": {
+        "sounds": [
+            "engineboost"
+        ]
+    },
+    "artron_furnace": {
+        "sounds": [
+            "artron_furnace"
+        ]
+    },
+    "junk_takeoff": {
+        "sounds": [
+            "junk_takeoff"
+        ]
+    },
+    "junk_land": {
+        "sounds": [
+            "junk_land"
+        ]
+    },
+    "junk_arc": {
+        "sounds": [
+            "junk_arc"
+        ]
+    },
+    "empty_child": {
+        "sounds": [
+            "empty_child_mummy",
+            "empty_child_scared"
+        ]
+    },
+    "cyberman": {
+        "sounds": [
+            "cyberman_become",
+            "cyberman_citizen",
+            "cyberman_deleted"
+        ]
+    },
+    "dalek": {
+        "sounds": [
+            "dalek_beginning",
+            "dalek_destroy",
+            "dalek_doctor",
+            "dalek_exterminate",
+            "dalek_no_more",
+            "dalek_stay",
+            "dalek_doctor_must_die"
+        ]
+    },
+    "dalek_hit": {
+        "sounds": [
+            "dalek_hit"
+        ]
+    },
+    "hath": {
+        "sounds": [
+            "hath"
+        ]
+    },
+    "silence": {
+        "sounds": [
+            "silence",
+            "silent_rattle"
+        ]
+    },
+    "sontaran": {
+        "sounds": [
+            "sontaran_too_easy",
+            "sontaran_sontar_ha",
+            "sontaran_stahl"
+        ]
+    },
+    "strax": {
+        "sounds": [
+            "strax_apathy_1",
+            "strax_apathy_2",
+            "strax_discuss"
+        ]
+    },
+    "milk": {
+        "sounds": [
+            "strax_lactic"
+        ]
+    },
+    "vashta": {
+        "sounds": [
+            "vashta_nerada_lights"
+        ]
+    }
+}
