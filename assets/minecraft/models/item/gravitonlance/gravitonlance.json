@@ -1,10 +1,10 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Flubberschnub",
 	"textures": {
 		"0": "blocks/gravitonlance/black",
 		"1": "blocks/gravitonlance/purplelines",
 		"2": "blocks/gravitonlance/bronzish",
-		"3": "blocks/gravitonlance/inner scope black",
+		"3": "blocks/gravitonlance/innerscopeblack",
 		"4": "blocks/gravitonlance/wires",
 		"particle": "blocks/gravitonlance/black"
 	},
