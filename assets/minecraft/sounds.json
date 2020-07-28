@@ -34,6 +34,31 @@
         "tardis_emergency_land"
         ]
     },
+    "tardis.phase.shifted": {
+    "sounds": [
+        "phaseshifted"
+        ]
+    },
+    "tardis.terminal.activate": {
+    "sounds": [
+        "controls/terminal/activate"
+        ]
+    },
+    "tardis.terminal.deactivate": {
+    "sounds": [
+        "controls/terminal/deactivate"
+        ]
+    },
+    "tardis.terminal.click": {
+    "sounds": [
+        "controls/terminal/click"
+        ]
+    },
+    "tardis.terminal.select": {
+    "sounds": [
+        "controls/terminal/select"
+        ]
+    },
     "tardis_rotor_slam": {
     "sounds": [
         "rotorslam"
@@ -182,6 +207,11 @@
     "coords_received": {
     "sounds": [
         "coords_received"
+        ]
+    },
+    "tardis.save_loaded": {
+    "sounds": [
+        "loadsave"
         ]
     },
     "coords_check": {
