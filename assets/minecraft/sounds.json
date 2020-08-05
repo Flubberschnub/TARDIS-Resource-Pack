@@ -99,6 +99,35 @@
         "tardis_lowpower"
         ]
     },
+    "tardis.ambience.accent": {
+    "sounds": [
+      {
+        "name": "ambience/accent1",
+        "volume": 0.5
+      },
+      {
+        "name": "ambience/accent2",
+        "volume": 0.5
+      },
+      {
+        "name": "ambience/accent3",
+        "volume": 0.5
+      },
+      {
+        "name": "ambience/accent4",
+        "volume": 0.5
+      },
+        "ambience/accent5",
+        "ambience/accent6"
+        ]
+    },
+    "tardis.ambience.glitch": {
+    "sounds": [
+        "ambience/glitch1",
+        "ambience/glitch2",
+        "ambience/glitch3"
+        ]
+    },
     "tardis_startup": {
     "sounds": [
         "tardis_startup"
@@ -264,6 +293,18 @@
         }
         ]
     },
+    "tardis.ambience": {
+    "sounds": [
+        {
+            "name": "tardis.ambience.accent",
+            "type": "event"
+        },
+        {
+            "name": "tardis.ambience.glitch",
+            "type": "event"
+        }
+        ]
+    },
     "sunshot": {
     "sounds": [
 
@@ -361,7 +402,8 @@
     "sounds": [
         {
             "name": "consoleambience",
-            "stream": true
+            "stream": true,
+            "volume": 0.6
         }
         ]
     },
