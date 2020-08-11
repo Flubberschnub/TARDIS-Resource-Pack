@@ -118,14 +118,19 @@
         "volume": 0.5
       },
         "ambience/accent5",
-        "ambience/accent6"
+        "ambience/accent6",
+        "ambience/accent7",
+        "ambience/accent8",
+        "ambience/accent9",
+        "ambience/accent10"
         ]
     },
     "tardis.ambience.glitch": {
     "sounds": [
         "ambience/glitch1",
         "ambience/glitch2",
-        "ambience/glitch3"
+        "ambience/glitch3",
+        "ambience/glitch4"
         ]
     },
     "tardis_startup": {
