@@ -406,7 +406,22 @@
     "category": "ambient",
     "sounds": [
         {
-            "name": "consoleambience",
+            "name": "ambience/atmosphere/console1",
+            "stream": true,
+            "volume": 0.6
+        },
+        {
+            "name": "ambience/atmosphere/console2",
+            "stream": true,
+            "volume": 0.6
+        },
+        {
+            "name": "ambience/atmosphere/console3",
+            "stream": true,
+            "volume": 0.6
+        },
+        {
+            "name": "ambience/atmosphere/console4",
             "stream": true,
             "volume": 0.6
         }

@@ -52,7 +52,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.02816901408450704}, "model": "item/diamond_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.028809218950064018}, "model": "item/diamond_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.029449423815620997}, "model": "item/diamond_hoe"},
-		{ "predicate": {"damaged": 0, "damage": 0.030089628681177975}, "model": "item/delorean"},
+		{ "predicate": {"damaged": 0, "damage": 0.030089628681177975}, "model": "item/random/deloreantm"},
 		{ "predicate": {"damaged": 0, "damage": 0.030729833546734954}, "model": "item/delorean_open"},
 		{ "predicate": {"damaged": 0, "damage": 0.03137003841229193}, "model": "item/diamond_hoe"},
 		{ "predicate": {"damaged": 0, "damage": 0.03201024327784891}, "model": "item/diamond_hoe"},
