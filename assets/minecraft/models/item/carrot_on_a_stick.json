@@ -87,6 +87,8 @@
 		{"predicate": {"custom_model_data":95}, "model": "item/gravitonlance/animate/gravitonlanceload16"},
 		{"predicate": {"custom_model_data":96}, "model": "item/gravitonlance/animate/gravitonlanceload17"},
 		{"predicate": {"custom_model_data":97}, "model": "item/gravitonlance/animate/gravitonlanceload18"},
-		{"predicate": {"custom_model_data":98}, "model": "item/gravitonlance/animate/gravitonlanceload20"}
+		{"predicate": {"custom_model_data":98}, "model": "item/gravitonlance/animate/gravitonlanceload20"},
+		{"predicate": {"custom_model_data":787}, "model": "item/random/tiecockpit"},
+		{"predicate": {"custom_model_data":788}, "model": "item/random/tiecockpit"}
 	]
 }
